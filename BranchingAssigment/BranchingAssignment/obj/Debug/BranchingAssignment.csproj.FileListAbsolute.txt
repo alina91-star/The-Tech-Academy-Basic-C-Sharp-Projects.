@@ -1,0 +1,7 @@
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\Create new solution\BranchingAssignment\bin\Debug\BranchingAssignment.exe.config
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\Create new solution\BranchingAssignment\bin\Debug\BranchingAssignment.exe
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\Create new solution\BranchingAssignment\bin\Debug\BranchingAssignment.pdb
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\Create new solution\BranchingAssignment\obj\Debug\BranchingAssignment.csproj.AssemblyReference.cache
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\Create new solution\BranchingAssignment\obj\Debug\BranchingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\Create new solution\BranchingAssignment\obj\Debug\BranchingAssignment.exe
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\Create new solution\BranchingAssignment\obj\Debug\BranchingAssignment.pdb
