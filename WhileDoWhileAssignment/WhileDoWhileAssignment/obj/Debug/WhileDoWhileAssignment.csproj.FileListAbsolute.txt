@@ -1,0 +1,7 @@
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\WhileDoWhileAssignment\WhileDoWhileAssignment\obj\Debug\WhileDoWhileAssignment.csproj.AssemblyReference.cache
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\WhileDoWhileAssignment\WhileDoWhileAssignment\obj\Debug\WhileDoWhileAssignment.csproj.CoreCompileInputs.cache
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\WhileDoWhileAssignment\WhileDoWhileAssignment\bin\Debug\WhileDoWhileAssignment.exe.config
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\WhileDoWhileAssignment\WhileDoWhileAssignment\bin\Debug\WhileDoWhileAssignment.exe
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\WhileDoWhileAssignment\WhileDoWhileAssignment\bin\Debug\WhileDoWhileAssignment.pdb
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\WhileDoWhileAssignment\WhileDoWhileAssignment\obj\Debug\WhileDoWhileAssignment.exe
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\WhileDoWhileAssignment\WhileDoWhileAssignment\obj\Debug\WhileDoWhileAssignment.pdb
