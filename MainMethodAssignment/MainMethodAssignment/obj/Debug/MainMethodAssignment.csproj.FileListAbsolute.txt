@@ -1,0 +1,7 @@
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.exe.config
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.exe
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.pdb
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.exe
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.pdb
