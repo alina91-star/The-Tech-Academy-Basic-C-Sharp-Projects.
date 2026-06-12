@@ -1,0 +1,7 @@
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\SixPartAssignment\SixPartAssignment\bin\Debug\SixPartAssignment.exe.config
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\SixPartAssignment\SixPartAssignment\bin\Debug\SixPartAssignment.exe
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\SixPartAssignment\SixPartAssignment\bin\Debug\SixPartAssignment.pdb
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\SixPartAssignment\SixPartAssignment\obj\Debug\SixPartAssignment.csproj.AssemblyReference.cache
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\SixPartAssignment\SixPartAssignment\obj\Debug\SixPartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\SixPartAssignment\SixPartAssignment\obj\Debug\SixPartAssignment.exe
+C:\Users\alina\OneDrive\Documents\GitHub\alina91-star.github.io\The-Tech-Academy-Basic-C-Sharp-Projects_\SixPartAssignment\SixPartAssignment\obj\Debug\SixPartAssignment.pdb
